@@ -1,2 +1,2 @@
 # OKC-Project
-Created originally for OKC Thunder project application, displaying proficiency in Data Analysis, Modeling, and Feature Engineering..
+Created originally for OKC Thunder Data Science interview project for 2025. This repo only includes python scripts since data provided may not be publicly available. The intent of this project is to analyze the schedules of all NBA teams in the league as well as predicting advantageous/disadvantageous games for OKC on the road & at home. To be more precise, this analysis should provide coaching staff and operations a quantified understanding of opponent strength, travel-win/loss correlations, and highly difficult back-to-back games between home/away. Project template and game data was provided by OKC Data Science team.
